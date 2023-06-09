@@ -1,4 +1,4 @@
-# AtividadesDevU
+# Atividades Sandbox DevU
 
 ## Ex 01 - Git, Abstract, Interfaces
 * Criar um repositório público que contém seu projeto da Unity
