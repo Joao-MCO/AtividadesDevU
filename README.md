@@ -8,3 +8,5 @@
 * Pensar em um template de jogo completo, para implementar suas mecânicas ao longo do projeto
 * Começar um GDD
 * Fazer/Importar assets, para deixar o sandbox agradável
+
+## Ex 02 - Events
